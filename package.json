@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/karnking/expense_server/issues"
   },
-  "homepage": "https://github.com/karnking/expense_server#readme"
+  "homepage": "https://github.com/karnking/expense_server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
